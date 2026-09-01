@@ -32,7 +32,7 @@ records in the table.
 Building
 --------
 
-Prerequisites - dotnet 5.0.
+Prerequisites - dotnet 10.0.
 
 If you have `make` installed, common build and test scenarios are covered in the file.
 
